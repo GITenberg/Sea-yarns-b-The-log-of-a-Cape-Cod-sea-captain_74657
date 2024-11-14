@@ -1,0 +1,25 @@
+_repo: Sea-yarns-b-The-log-of-a-Cape-Cod-sea-captain_74657
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Joshua N.
+    gutenberg_agent_id: '57589'
+    url: http://www.gutenberg.org/2009/agents/57589
+description: ''
+gutenberg_issued: '2024-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74657'
+language: en
+pgterms:marc905: 20240621104339taylor
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aOrleans, Mass. :$bJoshua N. Taylor, $c1915, reprint 1981.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sea yarns : $b The log of a Cape Cod sea captain'
+url: http://www.gutenberg.org/ebooks/74657
