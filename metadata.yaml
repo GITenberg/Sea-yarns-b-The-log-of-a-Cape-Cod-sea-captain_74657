@@ -1,11 +1,16 @@
 _repo: Sea-yarns-b-The-log-of-a-Cape-Cod-sea-captain_74657
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74657-h/images/cover.png
 creator:
   author:
     agent_name: Taylor, Joshua N.
     gutenberg_agent_id: '57589'
     url: http://www.gutenberg.org/2009/agents/57589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74657#Sea-yarns-b-The-log-of-a-Cape-Cod-sea-captain
 gutenberg_issued: '2024-10-29'
 gutenberg_type: Text
 identifiers:
